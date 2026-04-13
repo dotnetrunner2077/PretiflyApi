@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PretiflyAPI.Application/PretiflyAPI.Application.csproj" />
+  <Project Path="PretiflyAPI.Domain/PretiflyAPI.Domain.csproj" />
+  <Project Path="PretiflyAPI.Infrastructure/PretiflyAPI.Infrastructure.csproj" />
+  <Project Path="PretiflyAPI/PretiflyAPI.csproj" />
+</Solution>
